@@ -93,7 +93,15 @@ BERT为主，辅助SVM，LR，KNN，NB
 
 ![img](http://wx2.sinaimg.cn/mw690/aba7d18bgy1g14wp6x1eoj20n30a2q4n.jpg)
 
-从上图可以基本看到，该比赛是头条主办的。同时上图给出了第一名和第三名的答辩题目。
+从上图可以基本看到，该比赛是头条主办的。同时上图给出了第一名和第三名的答辩题目。第一名和第三名仍旧是基于BERT的方案设计，第一名加了一些手工特征。从三者的分享方案可以看到，两个句子作为输入的分类问题，比如句子相似度匹配，比如自然语言推理等任务，对相似性传递的分析策略较多，也是一个比较有趣的点。同时，该任务也再次证明了BERT的强大。
+
+### 十.相关补充(SemEval2019 Task 8 on Fact-Checking in Community Forums)
+
+该[赛道](https://competitions.codalab.org/competitions/20022)分为两个子任务，分别是问题分类和答案分类。其中，答案分类赛道上，国内的汽车之家的团队拿到了冠军，冠军方案如下：
+
+![img2](http://wx4.sinaimg.cn/mw690/aba7d18bgy1g15osw73maj20gz07mgou.jpg)
+
+三个虚线框分别代表三种方案，简单的基于BERT做FineTuning时，只需要T\[CLS\]，但是融合T\[CLS\]到T\[SEP\]再到TN，也是一种思路，类似RNN的HiddenState的融合策略。该方案的线上结果是**82%**。
 
 ### 参考：
 
@@ -108,3 +116,5 @@ BERT为主，辅助SVM，LR，KNN，NB
 5.[第一名方案分享](references/WSDM2019_Fake_News_Classification/report2.pdf)
 
 6.[第三名方案分享](references/WSDM2019_Fake_News_Classification/report2.pdf)
+
+7.[SemEval2019-事实分类-汽车之家方案](https://tech.china.com/article/20190307/kejiyuan0129249545.html)
