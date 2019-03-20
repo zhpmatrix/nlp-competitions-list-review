@@ -60,7 +60,7 @@
 
 ### 参考文献
 
-1.[AI Word Cup攻略](references/AI Word Cup攻略_刘辉_新华智云.pdf)
+1.[AI Word Cup攻略](references/AI_Word_Cup攻略_刘辉_新华智云.pdf)
 
 2.[冠军比赛方案](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.2db024ddZShYhb&postId=10854)
 
