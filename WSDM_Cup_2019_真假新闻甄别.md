@@ -118,3 +118,8 @@ BERT为主，辅助SVM，LR，KNN，NB
 6.[第三名方案分享](references/WSDM2019_Fake_News_Classification/report2.pdf)
 
 7.[SemEval2019-事实分类-汽车之家方案](https://tech.china.com/article/20190307/kejiyuan0129249545.html)
+
+8.[Lessons Learned from Applying Deep Learning for NLP Without Big Data](https://towardsdatascience.com/lessons-learned-from-applying-deep-learning-for-nlp-without-big-data-d470db4f27bf)
+
+小数据场景下的分类Trick总结，有些Trick很有意思。
+
