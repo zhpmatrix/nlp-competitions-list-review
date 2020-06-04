@@ -23,4 +23,7 @@
 |2|[第三届魔镜杯大赛_问题相似度匹配](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%AD%94%E9%95%9C%E6%9D%AF%E5%A4%A7%E8%B5%9B_%E9%97%AE%E9%A2%98%E7%9B%B8%E4%BC%BC%E5%BA%A6%E5%8C%B9%E9%85%8D.md)|完成|
 |1|[WSDM_Cup_2019_真假新闻甄别](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/WSDM_Cup_2019_%E7%9C%9F%E5%81%87%E6%96%B0%E9%97%BB%E7%94%84%E5%88%AB.md)|完成|
 
+补充：
+
+[中文相似度匹配比赛汇总](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
 
