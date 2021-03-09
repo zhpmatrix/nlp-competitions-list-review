@@ -12,6 +12,14 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|12|[CHIP_2018_医疗健康领域的问答匹配](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CHIP_2018_%E5%8C%BB%E7%96%97%E5%81%A5%E5%BA%B7%E9%A2%86%E5%9F%9F%E7%9A%84%E9%97%AE%E7%AD%94%E5%8C%B9%E9%85%8D.md)||
+|11|[CCKS_2020_面向中文电子病历的医疗实体及事件抽取_实体识别](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2020_%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E5%8C%BB%E7%96%97%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96_%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)||
+|10|[CCKS_2020_面向中文电子病历的医疗实体及事件抽取_事件抽取](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2020_%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E5%8C%BB%E7%96%97%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96_%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96.md)||
+|9|[CCKS_2020_新冠知识图谱构建与问答评测](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2020_%E6%96%B0%E5%86%A0%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA%E4%B8%8E%E9%97%AE%E7%AD%94%E8%AF%84%E6%B5%8B.md)|全流程图谱构建，值得关注|
+|8|[CCKS_2019_医疗实体及属性抽取_跨院迁移](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2019_%E5%8C%BB%E7%96%97%E5%AE%9E%E4%BD%93%E5%8F%8A%E5%B1%9E%E6%80%A7%E6%8A%BD%E5%8F%96_%E8%B7%A8%E9%99%A2%E8%BF%81%E7%A7%BB.md)||
+|7|[CCKS_2019_医疗命名实体识别](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2019_%E5%8C%BB%E7%96%97%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)||
+|6|[CCKS_2018_面向中文电子病历的命名实体识别](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2018_%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)||
+|5|[CCIR_2019_基于电子病历的数据查询类问答](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCIR_2019_%E5%9F%BA%E4%BA%8E%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E7%B1%BB%E9%97%AE%E7%AD%94.md)||
 |4|[天池平台_瑞金医院MMC人工智能辅助构建知识图谱大赛](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/%E5%A4%A9%E6%B1%A0%E5%B9%B3%E5%8F%B0_%E7%91%9E%E9%87%91%E5%8C%BB%E9%99%A2MMC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%A4%A7%E8%B5%9B.md)||
 |3|[DataFountain_基于大数据的未知病原检测方法构建](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFountain_%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9A%84%E6%9C%AA%E7%9F%A5%E7%97%85%E5%8E%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E6%9E%84%E5%BB%BA.md)|||
 |2|[DataFountain_健康医疗问答系统构建与实现](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFountain_%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)||
