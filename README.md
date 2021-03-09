@@ -12,6 +12,7 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|13|[天池精准医疗大赛_人工智能辅助糖尿病遗传风险预测](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/%E5%A4%A9%E6%B1%A0%E7%B2%BE%E5%87%86%E5%8C%BB%E7%96%97%E5%A4%A7%E8%B5%9B_%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%E7%B3%96%E5%B0%BF%E7%97%85%E9%81%97%E4%BC%A0%E9%A3%8E%E9%99%A9%E9%A2%84%E6%B5%8B.md)|||
 |12|[CHIP_2018_医疗健康领域的问答匹配](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CHIP_2018_%E5%8C%BB%E7%96%97%E5%81%A5%E5%BA%B7%E9%A2%86%E5%9F%9F%E7%9A%84%E9%97%AE%E7%AD%94%E5%8C%B9%E9%85%8D.md)||
 |11|[CCKS_2020_面向中文电子病历的医疗实体及事件抽取_实体识别](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2020_%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E5%8C%BB%E7%96%97%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96_%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md)||
 |10|[CCKS_2020_面向中文电子病历的医疗实体及事件抽取_事件抽取](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/CCKS_2020_%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%94%B5%E5%AD%90%E7%97%85%E5%8E%86%E7%9A%84%E5%8C%BB%E7%96%97%E5%AE%9E%E4%BD%93%E5%8F%8A%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96_%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96.md)||
