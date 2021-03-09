@@ -8,6 +8,15 @@
 
 讨论比赛平台，赛题背景，数据格式，主要思路，技术实现，模型设计，框架选择，评估指标等方面梳理NLP比赛。
 
+### 医学相关汇总
+
+|序号|赛题|备注|
+|------|------|------|
+|4|[天池平台_瑞金医院MMC人工智能辅助构建知识图谱大赛](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/%E5%A4%A9%E6%B1%A0%E5%B9%B3%E5%8F%B0_%E7%91%9E%E9%87%91%E5%8C%BB%E9%99%A2MMC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%A4%A7%E8%B5%9B.md)||
+|3||[DataFountain_基于大数据的未知病原检测方法构建](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFountain_%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9A%84%E6%9C%AA%E7%9F%A5%E7%97%85%E5%8E%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E6%9E%84%E5%BB%BA.md)||
+|2|[DataFountain_健康医疗问答系统构建与实现](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFountain_%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)||
+|1|[DataFoundatain_2021数字中国创新大赛_肝癌病理解析](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFoundatain_2021%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B_%E8%82%9D%E7%99%8C%E7%97%85%E7%90%86%E8%A7%A3%E6%9E%90.md)|训练数据需要参赛者自己标注|
+
 ### 进度列表(自己有时间就会更新，同时欢迎感兴趣同学的不定时更新)
 
 |序号|题目|进度(拟进行/进行中/完成)|
