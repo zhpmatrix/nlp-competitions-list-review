@@ -12,6 +12,7 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|17|[Kesci医学相关数据集](https://www.kesci.com/home/dataset)|非常丰富的医学场景数据|
 |16|[北京数智医保创新大赛](https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8/content/2)|初赛没有数据，提交资质验证；复赛10G->1T的数据，非公网环境|
 |15|[ICLR2021:医疗对话生成和自动医疗诊断](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247511995&idx=2&sn=a58fd6548df5448de63daa75eb8fdb9a&chksm=970f876da0780e7b950a39029bdd5de120e191e514c64c064c3c5099b59e1e1801c937ae3956&mpshare=1&scene=23&srcid=0309mKW8AwybsntYw9vfi7zq&sharer_sharetime=1615304183246&sharer_shareid=0e8353dcb5f53b85da8e0afe73a0021b%23rd)||
 |14|[链想家计算科技大赛：COVID-19 知识图谱构建_赛道二](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/%E9%93%BE%E6%83%B3%E5%AE%B6%E8%AE%A1%E7%AE%97%E7%A7%91%E6%8A%80%E5%A4%A7%E8%B5%9B%EF%BC%9ACOVID-19%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%9E%84%E5%BB%BA_%E8%B5%9B%E9%81%93%E4%BA%8C.md)|||
