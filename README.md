@@ -12,6 +12,7 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|19|[中文医疗信息处理挑战榜](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e81343ffdz3p&dataId=95414)||
 |18|[第一届智能对话诊疗比赛](http://www.fudan-disc.com/sharedtask/imcs21/index.html)|智能对话结构化+智能对话诊疗|
 |17|[Kesci医学相关数据集](https://www.kesci.com/home/dataset)|非常丰富的医学场景数据|
 |16|[北京数智医保创新大赛](https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8/content/2)|初赛没有数据，提交资质验证；复赛10G->1T的数据，非公网环境|
