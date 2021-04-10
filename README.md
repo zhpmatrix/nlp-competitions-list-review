@@ -36,6 +36,7 @@
 
 |序号|题目|进度(拟进行/进行中/完成)|
 |------|------|------|
+|11|[中文空间语义理解评测](https://170.106.8.194/repo/2030NLP/SpaCE2021)|识别语义中含有的空间信息，纯正NLP问题研究|
 |10|[2019\_CCF大数据与计算智能大赛](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/2019_CCF大数据与计算智能大赛.md)|完成|
 |9|[2019之江杯的电商评论观点挖掘问题](https://zhpmatrix.github.io/2019/07/22/how-to-modeling/)|完成|
 |8|[DataFountain_AIIA杯_国家电网_电力专业领域词汇挖掘](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFountain_AIIA%E6%9D%AF_%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91_%E7%94%B5%E5%8A%9B%E4%B8%93%E4%B8%9A%E9%A2%86%E5%9F%9F%E8%AF%8D%E6%B1%87%E6%8C%96%E6%8E%98.md)|完成|
