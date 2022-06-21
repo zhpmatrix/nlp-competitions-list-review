@@ -12,11 +12,11 @@
 
 |序号|赛题|备注|
 |------|------|------|
-|23|[CCKS2021:医疗科普知识阅读理解](https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/)|MRC任务|
+|23|[中文医疗信息处理挑战榜](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e81343ffdz3p&dataId=95414)|MRC任务|
 |22|[CCKS2021:医疗科普知识答非所问识别](https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/)|NLI任务|
 |21|[CCKS2021:蕴含实体的中文医疗对话生成](https://www.biendata.xyz/competition/ccks_2021_mdg/)|梁晓丹老师组的工作，该数据集也在其他比赛平台被用到|
 |20|[医学数据挖掘算法评测大赛](https://www.heywhale.com/home/competition/5f2d0ea1b4ac2e002c164d82/content)|健康问句分类|
-|19|[中文医疗信息处理挑战榜](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e81343ffdz3p&dataId=95414)||
+|19|[CCKS2021:医疗科普知识阅读理解](https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/)||
 |18|[第一届智能对话诊疗比赛](http://www.fudan-disc.com/sharedtask/imcs21/index.html)|智能对话结构化+智能对话诊疗|
 |17|[Kesci医学相关数据集](https://www.kesci.com/home/dataset)|非常丰富的医学场景数据|
 |16|[北京数智医保创新大赛](https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8/content/2)|初赛没有数据，提交资质验证；复赛10G->1T的数据，非公网环境|
