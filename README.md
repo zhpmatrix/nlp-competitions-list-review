@@ -37,7 +37,7 @@
 |2|[DataFountain_健康医疗问答系统构建与实现](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFountain_%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)||
 |1|[DataFoundatain_2021数字中国创新大赛_肝癌病理解析](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/DataFoundatain_2021%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B_%E8%82%9D%E7%99%8C%E7%97%85%E7%90%86%E8%A7%A3%E6%9E%90.md)|训练数据需要参赛者自己标注|
 
-### 进度列表(自己有时间就会更新，同时欢迎感兴趣同学的不定时更新)
+### 进度列表(####自己有时间就会更新，同时欢迎感兴趣同学的不定时更新####)
 
 |序号|题目|进度(拟进行/进行中/完成)|
 |------|------|------|
