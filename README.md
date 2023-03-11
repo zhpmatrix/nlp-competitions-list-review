@@ -12,6 +12,7 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|25|[医疗语音，翻译和意图识别](https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent)||
 |24|[智能分诊](http://challenge.xfyun.cn/topic/info?type=disease-claims-2022&ch=ds22-dw-sq03)|2022-科大讯飞的比赛，举办方：好大夫，共计19个科室，我们自己做了38个科室（通用版），骨科专科版做了10+的科室|
 |23|[中文医疗信息处理挑战榜](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.22060218.J_2657303350.1.70e81343ffdz3p&dataId=95414)(收录了下述部分赛题，同时有更多的医疗NLP领域的经典任务)|更多数据可以参考[天池数据集](https://tianchi.aliyun.com/dataset)，漠沙老师为了天池的发展，真是操碎了心......|
 |22|[CCKS2021:医疗科普知识答非所问识别](https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/)|NLI任务|
