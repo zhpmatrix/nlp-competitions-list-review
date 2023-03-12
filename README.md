@@ -43,6 +43,7 @@
 
 |序号|题目|进度(拟进行/进行中/完成)|
 |------|------|------|
+|12|[第二届古汉语分析评测](https://mp.weixin.qq.com/s/bbJiv3r0RJSlpBfmIPG-9w)|古汉语翻译成现代文；古汉语翻译成英文等任务|
 |11|[中文空间语义理解评测](https://170.106.8.194/repo/2030NLP/SpaCE2021)|识别语义中含有的空间信息，纯正NLP问题研究|
 |10|[2019\_CCF大数据与计算智能大赛](https://github.com/zhpmatrix/nlp-competitions-list-review/blob/master/2019_CCF大数据与计算智能大赛.md)|完成|
 |9|[2019之江杯的电商评论观点挖掘问题](https://zhpmatrix.github.io/2019/07/22/how-to-modeling/)|完成|
