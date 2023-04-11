@@ -12,6 +12,7 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|27|[中文医疗教学视频问答](https://mp.weixin.qq.com/s/uPdqhDKclHaalztMFo2xwQ)||
 |26|[2023-全球人工智能技术创新大赛](https://mp.weixin.qq.com/s/mUaZekvgk1m8kxgOuGpeOg)|医学影像诊断报告生成|
 |25|[医疗语音，翻译和意图识别](https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent)||
 |24|[智能分诊](http://challenge.xfyun.cn/topic/info?type=disease-claims-2022&ch=ds22-dw-sq03)|2022-科大讯飞的比赛，举办方：好大夫，共计19个科室，我们自己做了38个科室（通用版），骨科专科版做了10+的科室|
