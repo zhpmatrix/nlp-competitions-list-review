@@ -13,6 +13,7 @@
 
 |序号|赛题|备注|
 |------|------|------|
+|29|[2024数字中国创新大赛-大模型作为肝病场景下的医疗助手](https://www.dcic-china.com/competitions/10090)|面向病历文书的问答系统|
 |28|[2023“域见杯”医检人工智能开发者大赛（赛题一：智能临床咨询模型）](https://competition.huaweicloud.com/information/1000041928/html11?utm_source=dd55ff57f7634a89a26bcac3c73382c8&share=c7f6851ae992497fa218db4722395be6)||
 |27|[中文医疗教学视频问答](https://mp.weixin.qq.com/s/uPdqhDKclHaalztMFo2xwQ)||
 |26|[2023-全球人工智能技术创新大赛](https://mp.weixin.qq.com/s/mUaZekvgk1m8kxgOuGpeOg)|医学影像诊断报告生成|
