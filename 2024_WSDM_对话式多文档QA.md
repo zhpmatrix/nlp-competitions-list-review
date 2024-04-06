@@ -6,6 +6,13 @@ https://sites.google.com/view/wsdm24-docqa
 
 [wsdm 2024，基于大模型进行多文档问答](https://mp.weixin.qq.com/s/wKjpVYx21SDthwk7ZJ5r1Q)
 
+tricks：
+
++ SOLAR-10.7B-Instruct model作为基干模型
++ hybrid training:utilize a well-trained model to produce (pseudo) answers for the eval dataset before adding them to the original training set to finetune a new model from scratch
++ 噪音数据过滤：提升数据的质量
++ model ensemble
+
 #### 数据样例介绍
 
 相比其他场景下的数据，增加了**history**的数据。
