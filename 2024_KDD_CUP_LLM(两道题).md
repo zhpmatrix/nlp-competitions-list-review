@@ -9,3 +9,5 @@
 相关赛题以及解决方案：
 
 [LLM Science Exam](https://mp.weixin.qq.com/s/tYIBHJ5zuiw-o1-DF0_Jow)
+
+[Kaggle Prompt Recovery](https://mp.weixin.qq.com/s/PdNKfK2CNLFoBaDhHC74Sw)
