@@ -6,6 +6,18 @@
 
 具体介绍见[这里](https://mp.weixin.qq.com/s/lEm0stYqAuW8ZCiHse6oVw)
 
+#### 前排方案
+
+[A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning](https://mp.weixin.qq.com/s/gx04y9GRMDZ1QvdRZjrOuQ)
+
+```
+We participated in Meta CRAG KDD Cup 2024 as Team ElectricSheep, securing third place in Task 1 and achieving first place in five of the seven question types in Task 2 among over 2, 000 participants and 5, 500 submissions
+```
+
+[WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs](https://mp.weixin.qq.com/s/OBj322clGq4UPbcBcBZCOw)
+
+
+
 相关赛题以及解决方案：
 
 [LLM Science Exam](https://mp.weixin.qq.com/s/tYIBHJ5zuiw-o1-DF0_Jow)
