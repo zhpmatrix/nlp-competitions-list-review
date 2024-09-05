@@ -65,3 +65,5 @@
 
 [中文相似度匹配比赛汇总](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
 
+[55个大模型比赛汇总](https://mp.weixin.qq.com/s/306YeHrU1XjcWIwUz-vB_g)
+
