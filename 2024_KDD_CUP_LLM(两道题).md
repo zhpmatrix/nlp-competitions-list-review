@@ -16,6 +16,8 @@ We participated in Meta CRAG KDD Cup 2024 as Team ElectricSheep, securing third 
 
 [WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs](https://mp.weixin.qq.com/s/OBj322clGq4UPbcBcBZCOw)
 
+[《MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented Generation Question Answering》](https://mp.weixin.qq.com/s/iw0DYT5AqK0sKOK_41ys_Q)
+
 
 
 相关赛题以及解决方案：
