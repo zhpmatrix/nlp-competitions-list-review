@@ -8,6 +8,9 @@
 
 #### 前排方案
 
+
+[冠军方案](https://mp.weixin.qq.com/s/CUKw1_c6fpcddmhWM5eQCw)
+
 [A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning](https://mp.weixin.qq.com/s/gx04y9GRMDZ1QvdRZjrOuQ)
 
 ```
