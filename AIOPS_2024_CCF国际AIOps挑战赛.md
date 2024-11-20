@@ -12,3 +12,5 @@
 
 赛道二（GLM4）：基于检索增强的运维知识问答挑战赛
 
+[季军方案](https://mp.weixin.qq.com/s/uHXuZv92ILKNjaX5hXo4HQ)
+
