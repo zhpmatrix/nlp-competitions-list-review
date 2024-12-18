@@ -21,6 +21,7 @@ We participated in Meta CRAG KDD Cup 2024 as Team ElectricSheep, securing third 
 
 [《MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented Generation Question Answering》](https://mp.weixin.qq.com/s/iw0DYT5AqK0sKOK_41ys_Q)
 
+[Amazon比赛的解决方案](https://mp.weixin.qq.com/s/iLZfo4QkptYdNjEgk646mQ)
 
 
 相关赛题以及解决方案：
